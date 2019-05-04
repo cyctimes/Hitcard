@@ -1,0 +1,11 @@
+C:\Users\zzsj2\source\repos\HitCard\Hitcard\bin\Debug\Hitcard.exe.config
+C:\Users\zzsj2\source\repos\HitCard\Hitcard\bin\Debug\Hitcard.exe
+C:\Users\zzsj2\source\repos\HitCard\Hitcard\bin\Debug\Hitcard.pdb
+C:\Users\zzsj2\source\repos\HitCard\Hitcard\bin\Debug\Hitcard.xml
+C:\Users\zzsj2\source\repos\HitCard\Hitcard\obj\Debug\Hitcard.vbprojAssemblyReference.cache
+C:\Users\zzsj2\source\repos\HitCard\Hitcard\obj\Debug\Hitcard.Resources.resources
+C:\Users\zzsj2\source\repos\HitCard\Hitcard\obj\Debug\Hitcard.vbproj.GenerateResource.cache
+C:\Users\zzsj2\source\repos\HitCard\Hitcard\obj\Debug\Hitcard.vbproj.CoreCompileInputs.cache
+C:\Users\zzsj2\source\repos\HitCard\Hitcard\obj\Debug\Hitcard.exe
+C:\Users\zzsj2\source\repos\HitCard\Hitcard\obj\Debug\Hitcard.xml
+C:\Users\zzsj2\source\repos\HitCard\Hitcard\obj\Debug\Hitcard.pdb

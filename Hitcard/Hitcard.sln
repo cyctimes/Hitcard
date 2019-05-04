@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Hitcard", "Hitcard\Hitcard.vbproj", "{3247CC2E-7496-4B6E-8700-09605569CCC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3247CC2E-7496-4B6E-8700-09605569CCC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3247CC2E-7496-4B6E-8700-09605569CCC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3247CC2E-7496-4B6E-8700-09605569CCC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3247CC2E-7496-4B6E-8700-09605569CCC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A2782E7-92E9-4B1D-BC42-2B46CD25798A}
+	EndGlobalSection
+EndGlobal
